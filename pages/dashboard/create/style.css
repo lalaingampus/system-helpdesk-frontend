@@ -75,7 +75,7 @@
    
    .container {
     position: relative;
-    height: 1030px;
+    height: 1330px;
     width: 1280px;
     background: url(assets/images/Background.png);
    }
@@ -83,7 +83,7 @@
    .panel-body {
     position: absolute;
     width: 1230px;
-    height: 950px;
+    height: 1250px;
     left: 24px;
     top: 55px;
    
@@ -94,7 +94,7 @@
    .panel-body-filter {
        position: absolute;
        width: 1180px;
-       height: 800px;
+       height: 1150px;
        left: 24px;
        top: 75px;
        background: #282C33;
